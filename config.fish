@@ -14,6 +14,9 @@ alias autoremove='sudo apt autoremove'
 alias autoclean='sudo apt autoclean'
 alias purge='sudo apt purge --autoremove'
 
+# others
+alias ls='exa -l'
+
 # maven aliases
 # alias install='mvn clean install -DskipTests'
 # alias build='mvn clean package -DskipTests'
